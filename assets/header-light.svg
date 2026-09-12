@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Diego Göttler — I build fast, reliable software, and I'm learning to build it better.">
+<style>
+  .h{font-family:'Space Grotesk','Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+  .m{font-family:'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;text-transform:uppercase}
+  .rule{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.22,1,.36,1) both}
+  .dot{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="1199" height="439" rx="10" fill="#fafaf7" stroke="#e4e2db"/>
+
+<g class="a">
+  <text class="m" x="64" y="80" font-size="13" letter-spacing="2.2" fill="#6e6c64">00 / README — Software Developer</text>
+</g>
+<rect class="rule" style="animation-delay:0.25s" x="64" y="98" width="40" height="2" fill="#d4451f"/>
+
+<g class="a" style="animation-delay:0.08s">
+  <text class="h" x="60" y="208" font-size="92" font-weight="600" letter-spacing="-2.8" fill="#141414">Diego Göttler<tspan fill="#d4451f">.</tspan></text>
+</g>
+<g class="a" style="animation-delay:0.16s">
+  <text class="h" x="64" y="262" font-size="28" fill="#56554f">I build fast, <tspan fill="#141414" font-weight="600">reliable</tspan> software — and I’m</text>
+  <text class="h" x="64" y="300" font-size="28" fill="#56554f">learning to build it better.</text>
+</g>
+
+<g class="a" style="animation-delay:0.12s">
+  <svg x="1000" y="64" width="136" height="136" viewBox="0 0 512 512">
+    <rect x="2" y="2" width="508" height="508" rx="52" fill="#000" stroke="#e4e2db" stroke-width="4"/>
+    <g transform="translate(256 256) scale(1.4) translate(-256.02 -256.44)"><path d="M162.974 286.296L118.814 266.328V252.6L162.974 232.536V245.592L136.478 257.208C135.198 257.784 133.854 258.264 132.446 258.648C131.038 259.032 129.918 259.288 129.086 259.416C129.918 259.544 131.038 259.8 132.446 260.184C133.854 260.504 135.198 260.952 136.478 261.528L162.974 273.144V286.296ZM207.096 291C203.384 291 200.12 290.232 197.304 288.696C194.488 287.096 192.28 284.888 190.68 282.072C189.144 279.256 188.376 275.992 188.376 272.28V233.88H172.056V220.92H202.776V272.28C202.776 274.008 203.288 275.416 204.312 276.504C205.4 277.528 206.808 278.04 208.536 278.04H223.896V291H207.096ZM245.939 291V257.4H231.923V244.44H245.939V237.24C245.939 232.312 247.603 228.376 250.931 225.432C254.323 222.424 258.739 220.92 264.179 220.92H279.635V233.4H264.659C263.379 233.4 262.323 233.816 261.491 234.648C260.723 235.416 260.339 236.44 260.339 237.72V244.44H279.635V257.4H260.339V291H245.939ZM308.109 291.96C302.797 291.96 298.541 290.104 295.341 286.392C292.141 282.68 290.541 277.656 290.541 271.32V257.88C290.541 251.608 292.141 246.616 295.341 242.904C298.541 239.128 302.797 237.24 308.109 237.24C312.461 237.24 315.885 238.52 318.381 241.08C320.877 243.576 322.125 247.096 322.125 251.64L318.765 248.28H322.125L321.645 235.32V220.92H336.045V291H322.125V280.92H318.765L322.125 277.56C322.125 282.104 320.877 285.656 318.381 288.216C315.885 290.712 312.461 291.96 308.109 291.96ZM313.293 279.48C315.917 279.48 317.965 278.744 319.437 277.272C320.909 275.736 321.645 273.592 321.645 270.84V258.36C321.645 255.608 320.909 253.496 319.437 252.024C317.965 250.488 315.917 249.72 313.293 249.72C310.605 249.72 308.525 250.488 307.053 252.024C305.645 253.496 304.941 255.608 304.941 258.36V270.84C304.941 273.592 305.645 275.736 307.053 277.272C308.525 278.744 310.605 279.48 313.293 279.48ZM349.064 286.296V273.24L375.56 261.624C376.84 261.048 378.184 260.568 379.592 260.184C381 259.8 382.12 259.544 382.952 259.416C382.12 259.288 381 259.064 379.592 258.744C378.184 258.36 376.84 257.88 375.56 257.304L349.064 245.688V232.536L393.224 252.504V266.232L349.064 286.296Z" fill="#FFB000"/></g>
+  </svg>
+</g>
+
+<g class="a" style="animation-delay:0.24s">
+  <line x1="64" y1="342.5" x2="1136" y2="342.5" stroke="#e4e2db"/>
+  <g>
+    
+    <text class="m" x="64" y="378" font-size="12" letter-spacing="1.8" fill="#6e6c64">Based in</text>
+    <text class="m" x="64" y="404" font-size="13" letter-spacing="1.4" fill="#56554f">Denkendorf, DE</text>
+  </g>
+  <g>
+    <circle class="dot" cx="444" cy="373.5" r="3.5" fill="#d4451f"/>
+    <text class="m" x="456" y="378" font-size="12" letter-spacing="1.8" fill="#6e6c64">Currently</text>
+    <text class="m" x="440" y="404" font-size="13" letter-spacing="1.4" fill="#56554f">Apprentice @ MediaMarktSaturn</text>
+  </g>
+  <g>
+    
+    <text class="m" x="816" y="378" font-size="12" letter-spacing="1.8" fill="#6e6c64">Focus</text>
+    <text class="m" x="816" y="404" font-size="13" letter-spacing="1.4" fill="#56554f">Web · Java · Fabric mods</text>
+  </g>
+</g>
+</svg>
